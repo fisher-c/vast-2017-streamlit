@@ -5,5 +5,3 @@ Pillow
 streamlit_plotly_events
 plotly
 json5
-altair
-pydeck

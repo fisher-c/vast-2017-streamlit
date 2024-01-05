@@ -7,14 +7,8 @@ import streamlit as st
 import plotly.express as px
 import json
 import os
-import altair as alt
-import pydeck as pdk
-from plotly.subplots import make_subplots
 import plotly.subplots as sp
 import plotly.graph_objs as go
-import matplotlib.colors
-from re import S
-from tkinter import N
 import plotly.graph_objects as go
 import math
 from streamlit_plotly_events import plotly_events

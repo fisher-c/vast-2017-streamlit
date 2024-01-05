@@ -1,6 +1,6 @@
-matplotlib
 pandas
 numpy
+matplotlib
 Pillow
 streamlit_plotly_events
 plotly

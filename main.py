@@ -1,8 +1,8 @@
-import matplotlib.cm as cm
 import pandas as pd
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
+import matplotlib.cm as cm
 import streamlit as st
 import plotly.express as px
 import json

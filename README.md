@@ -4,7 +4,7 @@ Interactive Streamlit dashboard for the 2017 VAST Challenge, developed for a vis
 
 ## Web App
 
-The Streamlit web app can be accessed [here]([https://vast-dashboard.streamlit.app/]).
+The Streamlit web app can be accessed [here](https://vast-dashboard.streamlit.app/).
 
 ![Streamlit App Screenshot](va_screenshot.png)
 
